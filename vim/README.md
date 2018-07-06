@@ -1,7 +1,9 @@
 ## My Vim Setup
 
-Install with
-https://github.com/VundleVim/Vundle.vim
+Dependencies:
+- Vim
+- Zsh
+- Vim Vundle (https://github.com/VundleVim/Vundle.vim)
 
 My vim vundle
 https://gist.github.com/carlosvega20/19c7add0f1309a80f9df680fdb2c130f
